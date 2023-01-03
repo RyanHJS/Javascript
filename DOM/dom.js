@@ -1,3 +1,3 @@
 // DOM //
 
-//
+console.dir(document);
