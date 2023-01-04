@@ -1,3 +1,5 @@
 // DOM //
 
-console.dir(document);
+// EXAMINE THE DOCUMENT OBJECT //
+// console.dir(document);
+
