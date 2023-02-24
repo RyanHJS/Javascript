@@ -1,0 +1,9 @@
+Hyper Text Transfer Protocol
+
+Server <-> Clients
+
+Every request is completely independent
+
+GET / POST / PUT /DELETE
+Retrieve / Submit / Update / DELETE
+
