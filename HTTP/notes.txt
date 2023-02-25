@@ -7,3 +7,7 @@ Every request is completely independent
 GET / POST / PUT /DELETE
 Retrieve / Submit / Update / DELETE
 
+HEAD, OPTIONS, PATCH
+    Get but does not return a body
+        Returns the supported HTTP methods
+            Update partical resources

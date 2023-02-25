@@ -1,0 +1,4 @@
+Structure the 'view' layer of your application
+Reuseable components with their own state
+JSX - Dynamic markup
+Interactive UIs with Virtual DOM

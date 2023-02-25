@@ -1,0 +1,14 @@
+// API 
+
+Application Program Interface
+
+Contract provided by one piece of software to another
+
+// REST
+
+Representational State Transfer
+
+Relies on HTTP protocol
+    Stateless, client-server
+
+GET, PUT, POST, DELETE
